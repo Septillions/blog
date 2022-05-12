@@ -1,2 +1,2 @@
 # blog
-https://blog.septillion.me
+https://loiter.me
