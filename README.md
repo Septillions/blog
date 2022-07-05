@@ -1,2 +1,2 @@
 # blog
-https://loiter.me
+https://blog.loiter.me
